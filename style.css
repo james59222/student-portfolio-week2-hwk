@@ -14,21 +14,24 @@ header {
     justify-content: space-between;
     min-width: 300px;
   }
+  /*CSS for main body of site*/
   h2 {
     color:rgb(230, 14, 18);
     margin: 20px 21px 20px 20px;
     
-   
-  }
-  .aboutMe {
+   }
+  /*employing flex box for titles paragraphs and imagesw*/
+
+   .aboutMe {
   display: flex;
   font-size: 20px;
   }
+  
   .Work {
     display:inline-flex;
     font-size: 20px;
-
   }
+  
   .Contact {
     display: flex;
     font-size: 20px;
@@ -38,6 +41,7 @@ header {
     margin-left: 200px;
   }
 
+  /*image thumbnail enlargement*/
   .thumbnail { 
     top:-50px; 
     left:-35px; 
@@ -49,6 +53,6 @@ header {
     -webkit-transition-timing-function: ease; 
     } 
     
-    /*change the number below to scale to the appropriate size*/ 
+   
     .thumbnail:hover { 
-    transform: scale(3); 
+    transform: scale(2); }
