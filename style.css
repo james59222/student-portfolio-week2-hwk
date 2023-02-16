@@ -14,3 +14,17 @@ header {
     justify-content: space-between;
     min-width: 300px;
   }
+  h2 {
+    color:rgb(230, 14, 18);
+    margin: 20px 21px 20px 20px;
+    
+   
+  }
+  .aboutMe {
+  display: flex;
+  font-size: 25px;
+  }
+  .Work {
+    display: flex;
+    font-size: 25px;
+  }
