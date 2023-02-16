@@ -1,0 +1,16 @@
+h1 {
+    color:blue
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1%;
+    background-color: #13293d;
+    color: #fff;
+  }
+  nav ul {
+    display: flex;
+    justify-content: space-between;
+    min-width: 300px;
+  }
