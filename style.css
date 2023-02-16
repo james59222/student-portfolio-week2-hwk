@@ -22,9 +22,18 @@ header {
   }
   .aboutMe {
   display: flex;
-  font-size: 25px;
+  font-size: 20px;
   }
   .Work {
+    display:inline-flex;
+    font-size: 20px;
+
+  }
+  .Contact {
     display: flex;
-    font-size: 25px;
+    font-size: 20px;
+  }
+
+  .refactor {
+    margin-left: 200px;
   }
