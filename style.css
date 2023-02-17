@@ -10,6 +10,9 @@ header {
     background-color: #13293d;
     color: #fff;
   }
+  body {
+    background-color:lightblue;
+  }
   nav ul {
     display: flex;
     justify-content: space-between;
@@ -18,7 +21,7 @@ header {
   /*CSS for main body of site*/
   h2 {
     color:rgb(230, 14, 18);
-    margin: 20px 21px 20px 20px;
+    margin: 20px 20px 20px 20px;
     
    }
   /*employing flex box for titles paragraphs and imagesw*/
@@ -39,7 +42,7 @@ header {
   }
 
   .refactor {
-    margin-left: 200px;
+    margin-left: 100px;
   }
 
   /*image thumbnail enlargement*/
