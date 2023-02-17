@@ -43,7 +43,12 @@ header {
 
   .refactor {
     margin-left: 100px;
+    display: flexbox;
   }
+  /*.wk2challenge {
+    margin-right: 300px;
+    display:flexbox;
+  }*/
 
   /*image thumbnail enlargement*/
   .thumbnail { 
